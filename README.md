@@ -35,7 +35,7 @@ AI_WebScraper/
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/your-username/AI_WebScraper.git
+git clone https://github.com/andredisa/AI_WebScraper.git
 cd AI_WebScraper
 ```
 2. **Install dependencies:**
